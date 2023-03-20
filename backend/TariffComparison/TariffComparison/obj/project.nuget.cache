@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDb3aC5S09VMeW8dzXKlODnMow+ybCwuYrbmOTM1WPr+kJjexdAWc49JFs4wJpkZqRR5i25OY6ZrJY8tB2et2A==",
+  "dgSpecHash": "EULDTc3/nFbDD+wTuwR4b3SXdGYdvWhiuLOv+0sP30cy84DfwHPbMNTZT+koPlf9rIkpUYs1q6sS9r4vf3tRPA==",
   "success": true,
-  "projectFilePath": "E:\\TESTS\\TariffComparison\\backend\\TariffComparison\\TariffComparison\\TariffComparison.csproj",
+  "projectFilePath": "E:\\TESTS\\TariffComparison\\TariffComparison\\backend\\TariffComparison\\TariffComparison\\TariffComparison.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anastasiia\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Anastasiia\\.nuget\\packages\\automapper.collection\\9.0.0\\automapper.collection.9.0.0.nupkg.sha512",

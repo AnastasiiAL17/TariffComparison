@@ -13,7 +13,7 @@ namespace TariffComparison.Helper
 
         public List<dynamic>? LoadJsonData()
         {
-            var addressPath = Configuration["Settings:AddressPath"];
+            var addressPath = "E:\\providers.json";// Configuration["Settings:AddressPath"];
             using StreamReader r = new(@addressPath);
             string json = r.ReadToEnd();
 

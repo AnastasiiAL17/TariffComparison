@@ -52,11 +52,7 @@ namespace TariffComparison.Service
             catch (Exception ex)
             {
                 _logger.LogError(ERROR_MESSAGE, ex.Message);
-                return new ApiResponse<ConsumptionResponse>
-                {
-                    IsSuccess = false,
-                    Message = string.Format(ERROR_MESSAGE, ex.Message),
-                };
+                throw new Exception("title", ex);
             }
         }
 

@@ -923,11 +923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TESTS\\TariffComparison\\backend\\TariffComparison\\TariffComparison\\TariffComparison.csproj",
+      "projectUniqueName": "E:\\TESTS\\TariffComparison\\TariffComparison\\backend\\TariffComparison\\TariffComparison\\TariffComparison.csproj",
       "projectName": "TariffComparison",
-      "projectPath": "E:\\TESTS\\TariffComparison\\backend\\TariffComparison\\TariffComparison\\TariffComparison.csproj",
+      "projectPath": "E:\\TESTS\\TariffComparison\\TariffComparison\\backend\\TariffComparison\\TariffComparison\\TariffComparison.csproj",
       "packagesPath": "C:\\Users\\Anastasiia\\.nuget\\packages\\",
-      "outputPath": "E:\\TESTS\\TariffComparison\\backend\\TariffComparison\\TariffComparison\\obj\\",
+      "outputPath": "E:\\TESTS\\TariffComparison\\TariffComparison\\backend\\TariffComparison\\TariffComparison\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

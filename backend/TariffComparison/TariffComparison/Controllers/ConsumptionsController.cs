@@ -26,6 +26,7 @@ namespace TariffComparison.Controllers
         [HttpPost(Name = "CalculateAnnualCosts")]
         public ApiResponse<ConsumptionResponse> CalculateAnnualCosts(ConsumptionRequest request)
         {
+            
             try
             {
                 if (request.Consumption <= 0)
