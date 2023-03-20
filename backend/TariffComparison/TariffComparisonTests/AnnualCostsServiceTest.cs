@@ -4,7 +4,6 @@ using Moq;
 using NUnit.Framework;
 using TariffComparison.Models;
 using TariffComparison.Service;
-using TariffComparison.Service.Interfaces;
 
 namespace TariffComparisonTests
 {

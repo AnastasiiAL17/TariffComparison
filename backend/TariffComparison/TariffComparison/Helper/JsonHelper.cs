@@ -4,16 +4,16 @@ namespace TariffComparison.Helper
 {
     public class JsonHelper
     {
-        public readonly IConfiguration Configuration;
+        public readonly IConfiguration _configuration;
 
         public JsonHelper(IConfiguration configuration)
         {
-            Configuration = configuration;
+            _configuration = configuration;
         }
 
         public List<dynamic>? LoadJsonData()
         {
-            var addressPath = "E:\\providers.json";// Configuration["Settings:AddressPath"];
+            var addressPath = "E:\\providers.json";
             using StreamReader r = new(@addressPath);
             string json = r.ReadToEnd();
 
